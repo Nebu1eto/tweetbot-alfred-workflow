@@ -1,5 +1,6 @@
 # tweetbot-alfred-workflow
 Alfred Workflow for [Tweetbot](http://tapbots.com/tweetbot/mac/), Made by [Hazealign](http://github.com/hazealign)
+Tested at Tweetbot for Mac v2.3.4
 
 ## Requirement
 - [ ] Buy Tweetbot for Mac on App Store.
@@ -7,7 +8,7 @@ Alfred Workflow for [Tweetbot](http://tapbots.com/tweetbot/mac/), Made by [Hazea
 - [ ] Open `Tweetbot Integration.alfredworkflow`
 
 ## Example Image
-
+![Example Picture](https://raw.githubusercontent.com/Hazealign/tweetbot-alfred-workflow/master/example.png)
 
 ## How To Use?
 - `timeline`, `@tl` : Move to your Timeline on Tweetbot.
