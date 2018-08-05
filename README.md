@@ -20,6 +20,7 @@ Tested at Tweetbot for Mac v2.3.4
 - `tweet`, `@twt` : Tweet your text on Tweetbot.
 - `search`, `@find` : Search Tweets by your text on Tweetbot.
 - `mute`, `@mute` : Move to your mute page on Tweetbot. (Tweetbot URL Schemes doesn't support to add it directly.)
+- `@open` : Open a Twitter link in Tweetbot. (Uses clipboard to find link.)
 
 ## License?
 **NO LICENSE. JUST USE FREE, SAME AS WTFPL.**
